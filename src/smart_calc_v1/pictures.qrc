@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>misc/plot.png</file>
+    </qresource>
+</RCC>
